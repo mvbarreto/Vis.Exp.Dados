@@ -1,0 +1,5 @@
+# Atividades para nota de Visualização e Exploração de Dados
+
+## Observações da professora para a atividade 2
+
+Seu trabalho está muito bem escrito e bem explorado. Alguns comentários seguem. Na questão 1, facilitaria a visualização do comportamento das variáveis se tivesse feito aquele pair chart. Vimos em sala, e a correlação também pode ser acrescentada no gráfico. Linha 62: Não colocar opinião própria ou tentar dar explicação "externa" para os que os dados apontam. Linha 135: não somente fortemente relacionadas, este comportamento é aproximadamente linear. Linha 168: "de cara" não é linguagem apropriada para um relatório. Na questão 3, poderia ter calculado medidas de associação e feito o teste qui-quadrado de Pearson para analisar de as variáveis são independentes. Também poderia ter feito gráficos para ilustrar a tabela. Na questão 4, poderia ter calculado medidas de associação e feito o teste qui-quadrado de Pearson para analisar de as variáveis são independentes. Mesmo cometendo alguns erros, você desenvolveu um bom trabalho. Tem linguagem predominantemente adequada e poucos erros de português. Parabéns!
